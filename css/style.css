@@ -86,7 +86,7 @@ header h1{
 
 .anim .whee1_1, :is(.whee1_2){
     position: absolute;
-    width: 50%;
+    width: 25%;
     height: 25%;
     z-index: 2;
 }
